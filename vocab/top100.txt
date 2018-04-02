@@ -1,3 +1,303 @@
 неделя week
 год year
 сегодня today
+завтра tomorrow
+вчера yesterday
+календарь calendar
+секунда second
+час hour
+минута minute
+часы o'clock
+часы clock
+мочь can
+использовать use
+делать do
+идти go
+приходить come
+смеяться laugh
+делать make
+смотреть see
+далёкий far
+маленький small
+хороший good
+красивый beautiful
+гадкий ugly
+трудный difficult
+лёгкий easy
+плохой bad
+близкий near
+Приятно познакомиться. Nice to meet you.
+Здравствуйте. Hello.
+Доброе утро. Good morning.
+Добрый день. Good afternoon.
+Добрый вечер. Good evening.
+Спокойной ночи. Good night.
+Как дела? How are you?
+Спасибо. Thank you!
+Нет. No.
+Вкусно! Delicious!
+Меня зовут... I'm...(name).
+До свидания. Goodbye.
+Да. Yes.
+понедельник Monday
+вторник Tuesday
+среда Wednesday
+четверг Thursday
+пятница Friday
+суббота Saturday
+воскресенье Sunday
+май May
+январь January
+февраль February
+март March
+апрель April
+июнь June
+июль July
+август August
+сентябрь September
+октябрь October
+ноябрь November
+декабрь December
+ноль zero
+один one
+два two
+три three
+четыре four
+пять five
+шесть six
+семь seven
+восемь eight
+девять nine
+десять ten
+кофе coffee
+пиво beer
+чай tea
+вино wine
+вода water
+говядина beef
+свинина pork
+курица chicken
+ягнятина lamb
+рыба fish
+ступня foot
+нога leg
+голова head
+рука arm
+рука hand
+палец finger
+тело body
+желудок stomach
+спина back
+грудная клетка chest
+медсестра nurse
+сотрудник employee
+полицейский police officer
+повар cook
+инженер engineer
+врач doctor
+менеджер manager
+учительница teacher
+программист programmer
+продавец salesman
+неделя week
+год year
+сегодня today
+завтра tomorrow
+вчера yesterday
+календарь calendar
+секунда second
+час hour
+минута minute
+часы o'clock
+часы clock
+мочь can
+использовать use
+делать do
+идти go
+приходить come
+смеяться laugh
+делать make
+смотреть see
+далёкий far
+маленький small
+хороший good
+красивый beautiful
+гадкий ugly
+трудный difficult
+лёгкий easy
+плохой bad
+близкий near
+Приятно познакомиться. Nice to meet you.
+Здравствуйте. Hello.
+Доброе утро. Good morning.
+Добрый день. Good afternoon.
+Добрый вечер. Good evening.
+Спокойной ночи. Good night.
+Как дела? How are you?
+Спасибо. Thank you!
+Нет. No.
+Вкусно! Delicious!
+Меня зовут... I'm...(name).
+До свидания. Goodbye.
+Да. Yes.
+понедельник Monday
+вторник Tuesday
+среда Wednesday
+четверг Thursday
+пятница Friday
+суббота Saturday
+воскресенье Sunday
+май May
+январь January
+февраль February
+март March
+апрель April
+июнь June
+июль July
+август August
+сентябрь September
+октябрь October
+ноябрь November
+декабрь December
+ноль zero
+один one
+два two
+три three
+четыре four
+пять five
+шесть six
+семь seven
+восемь eight
+девять nine
+десять ten
+кофе coffee
+пиво beer
+чай tea
+вино wine
+вода water
+говядина beef
+свинина pork
+курица chicken
+ягнятина lamb
+рыба fish
+ступня foot
+нога leg
+голова head
+рука arm
+рука hand
+палец finger
+тело body
+желудок stomach
+спина back
+грудная клетка chest
+медсестра nurse
+сотрудник employee
+полицейский police officer
+повар cook
+инженер engineer
+врач doctor
+менеджер manager
+учительница teacher
+программист programmer
+продавец salesman
+неделя week
+год year
+сегодня today
+завтра tomorrow
+вчера yesterday
+календарь calendar
+секунда second
+час hour
+минута minute
+часы o'clock
+часы clock
+мочь can
+использовать use
+делать do
+идти go
+приходить come
+смеяться laugh
+делать make
+смотреть see
+далёкий far
+маленький small
+хороший good
+красивый beautiful
+гадкий ugly
+трудный difficult
+лёгкий easy
+плохой bad
+близкий near
+Приятно познакомиться. Nice to meet you.
+Здравствуйте. Hello.
+Доброе утро. Good morning.
+Добрый день. Good afternoon.
+Добрый вечер. Good evening.
+Спокойной ночи. Good night.
+Как дела? How are you?
+Спасибо. Thank you!
+Нет. No.
+Вкусно! Delicious!
+Меня зовут... I'm...(name).
+До свидания. Goodbye.
+Да. Yes.
+понедельник Monday
+вторник Tuesday
+среда Wednesday
+четверг Thursday
+пятница Friday
+суббота Saturday
+воскресенье Sunday
+май May
+январь January
+февраль February
+март March
+апрель April
+июнь June
+июль July
+август August
+сентябрь September
+октябрь October
+ноябрь November
+декабрь December
+ноль zero
+один one
+два two
+три three
+четыре four
+пять five
+шесть six
+семь seven
+восемь eight
+девять nine
+десять ten
+кофе coffee
+пиво beer
+чай tea
+вино wine
+вода water
+говядина beef
+свинина pork
+курица chicken
+ягнятина lamb
+рыба fish
+ступня foot
+нога leg
+голова head
+рука arm
+рука hand
+палец finger
+тело body
+желудок stomach
+спина back
+грудная клетка chest
+медсестра nurse
+сотрудник employee
+полицейский police officer
+повар cook
+инженер engineer
+врач doctor
+менеджер manager
+учительница teacher
+программист programmer
+продавец salesman
